@@ -1,8 +1,8 @@
 {
-    "name": "jenssegers/rollbar",
+    "name": "bluemove/laravel-lumen-rollbar",
     "description": "Rollbar error monitoring integration for Laravel projects",
     "keywords": ["laravel", "rollbar", "monitoring", "error", "logging"],
-    "homepage": "https://github.com/jenssegers/laravel-rollbar",
+    "homepage": "https://github.com/bluemove/laravel-lumen-rollbar",
     "license": "MIT",
     "authors": [
         {
